@@ -130,6 +130,7 @@ venv.bak/
 venv
 idea
 .idea
+.log
 
 # Spyder project settings
 .spyderproject
